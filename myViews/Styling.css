@@ -1,0 +1,35 @@
+h1 {
+  color: brown;
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+h3 {
+  color: darkmagenta;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+#img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#img2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+
+a:hover {
+  color: red;
+}
+body{
+  background-color: whitesmoke;
+}
